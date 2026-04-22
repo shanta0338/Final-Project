@@ -1,0 +1,23 @@
+artifact_path: file:c:/Users/Shant/OneDrive/Desktop/Data_Science/Coding/Final-Project/mlruns/1/models/m-9405bbf36279485aa0de94f8a164a64e/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.12.10
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.9.1+cu130
+mlflow_version: 3.11.1
+model_id: m-9405bbf36279485aa0de94f8a164a64e
+model_size_bytes: 24025
+model_uuid: m-9405bbf36279485aa0de94f8a164a64e
+prompts: null
+run_id: 18d9bdac02174740bd96b10cf47e039f
+utc_time_created: '2026-04-22 04:01:42.331262'
